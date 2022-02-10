@@ -1,2 +1,2 @@
-mitosis_data_set/
-.ipynb_checkpoints/
+mitosis_data_set/*
+.ipynb_checkpoints/*
